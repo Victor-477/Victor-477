@@ -44,5 +44,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/victor-477"><img src="https://img.shields.io/badge/-Victor%20Samuel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:victorsosta47@gmail.com"><img src="https://img.shields.io/badge/-victorscosta47@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/victor.samuelcosta_"><img src="https://img.shields.io/badge/-Victor Samuel-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/victor.samuel_"><img src="https://img.shields.io/badge/-Victor Samuel-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
